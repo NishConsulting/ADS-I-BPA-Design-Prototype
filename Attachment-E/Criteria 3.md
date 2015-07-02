@@ -1,10 +1,11 @@
-# CRITERIA 3:Understand what people need, by including people in the prototype design process
+## CRITERIA 3:
+Understand what people need, by including people in the prototype design process
 
-# EVIDENCE:
+## EVIDENCE:
 
-# Hallway Usability Testing
+### Hallway Usability Testing
 Following are the questions we asked test participants during hallway testing and their responses.  These sessions were conducted on an early UX design composition.
-## Test Questions
+#### Test Questions
 1) Do you know what this site would be for?
 
 2) What do you think of this layout?
@@ -13,7 +14,7 @@ Following are the questions we asked test participants during hallway testing an
 
 4) Is there any content you might add?
 
-## Responses
+#### Responses
 Name:  Apala
 Demo:  Female, age 40-50, works at HFI
 Feedback:
