@@ -1,4 +1,4 @@
-## CRITERIA 3:
+## CRITERIA C:
 Understand what people need, by including people in the prototype design process
 
 ## EVIDENCE:
