@@ -1,4 +1,4 @@
-## CRITERIA 1: 
+## CRITERIA A: 
 Assigned one leader, gave that person authority and responsibility, and held that person accountable for the quality of the prototype submitted
 
 ##EVIDENCE: 
