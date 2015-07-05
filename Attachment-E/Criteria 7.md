@@ -44,3 +44,4 @@ Not sure what to click so I'd just go check my email.
 I don't want to sign-in first.  Want to figure out if it will be helpful to me first.
 
 #NEED TO INSERT PICTURES
+![IMAGE LABEL](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/Criteria_7_AxurePrototypeUsabilityTest_EvidenceArtifact_ADS1_18F_Nish.docx)
