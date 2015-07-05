@@ -1,4 +1,4 @@
-##CRITERIA 7:
+##CRITERIA G:
 Performed usability tests with people
 
 ###Usability Testing on Axure Prototype
