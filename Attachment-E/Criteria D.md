@@ -1,4 +1,4 @@
-## CRITERIA 4:
+## CRITERIA D:
 Used at least three "human-centered design" techniques or tools
 
 ## EVIDENCE
