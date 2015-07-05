@@ -1,4 +1,4 @@
-##CRITERIA 6:
+##CRITERIA F:
 Used at least three modern and open-source frontend or client-side web technologies
 
 ##EVIDENCE:
