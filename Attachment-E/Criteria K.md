@@ -1,7 +1,9 @@
-Criteria K:
+### Criteria K:
+
 Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge.
 
-Evidence:
+### Evidence:
+
 Following are the technologies used for the prototype along with their corresponding licenses.  They are openly licensed and free of charge. 
 
 1.  HTML5
