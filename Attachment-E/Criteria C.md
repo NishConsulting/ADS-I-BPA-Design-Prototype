@@ -16,7 +16,7 @@ Following are the questions we asked test participants during hallway testing an
 
 #### Responses
 #####Name:  Apala
-- Demo:  Female, age 40-50, works at HFI
+- Demo:  Female, age 50 - 60, works at HFI
 Feedback:
 - Add drug name to survey so it’s clear
 - Death?
@@ -24,7 +24,7 @@ Feedback:
 - Am I the right the person - list the specifics on WHO this survey is for
 
 #####Name:  Lorie
-- Demo:  Female, age 35-40, works at Capital One
+- Demo:  Female, age 55-60, works at Capital One
 Feedback:
 - ID the drug - show a commercial for it, show the generic name, etc. so people can relate to which drug.
 - Can you see other data for other symptoms somewhere even if you don't select it?
