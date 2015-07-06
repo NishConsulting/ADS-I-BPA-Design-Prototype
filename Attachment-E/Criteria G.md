@@ -17,7 +17,7 @@ Following are the questions we asked test participants during usability testing 
 ####Name:  Carol
 Demo:  Female, age 41, works at IBM
 
-[Usability Testing 1](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Carol%20Pic1.png)
+![Usability Testing 1](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Carol%20Pic1.png)
 
 Feedback:
 - The woman in picture on the home page looks a little sickly
@@ -28,7 +28,7 @@ Feedback:
 ####Name:  Marianne
 Demo:  Female, age 55, works for Olmstead County
 
-[Usability Testing 2](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Maryanne%20Pic2.png)
+![Usability Testing 2](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Maryanne%20Pic2.png)
 
 Notes:   Marianne’s occupation is data visualization, so the she provided some interesting comments.
 Feedback:
@@ -40,7 +40,7 @@ Feedback:
 ####Name:  Colleen
 Demo:  Female, age 45-50
 
-[Usability Testing 3](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Colleen%20Pic3.png)
+![Usability Testing 3](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Colleen%20Pic3.png)
 
 Feedback:
 - Looks like you can get specific info on women's health.  Look up info.
