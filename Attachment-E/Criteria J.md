@@ -5,7 +5,7 @@ Provided sufficient documentation to install and run the prototype on another ma
 
 EVIDENCE:
 
-Following are the steps necessary to install and run our prototype on a different machine.  Please note our prototype build involved static HTML/CSS/js technologies and no PHP or other server side applications.  So, these steps are pretty straightforward.  
+Following are the steps necessary to install and run our prototype on a different machine.  Please note our prototype build involved static HTML/CSS/js technologies and no PHP or other server side applications.  As such, these steps are pretty straightforward.  
 
 1. Create a new directory on the machine on which you want the prototype to reside.
 2. Download the complete prototype build files from this GitHub repostitory location.
