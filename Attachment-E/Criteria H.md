@@ -5,7 +5,7 @@ Used an iterative approach, where feedback informed subsequent work or versions 
 
 ####Iterative Design Approach
 
-Team NISH employed an iterative approach in the design and development of our prototype for this exercise.  See ![feedback](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Feedback/UI%20changes.md). Following is a brief listing of specific examples of input that implemented as a direct result of user feedback obtained during the process.
+Team NISH employed an iterative approach in the design and development of our prototype for this exercise.  See [feedback](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Feedback/UI%20changes.md). Following is a brief listing of specific examples of input that implemented as a direct result of user feedback obtained during the process.
 
 ####Examples of Specific Feedback That Informed Design
 
@@ -25,8 +25,8 @@ Team NISH employed an iterative approach in the design and development of our pr
 
 To further illustrate the iterative design process, the following files have also been provided in our GitHub repository:
 
-1) Preliminary UI      ![SurveyConcept](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20SurveyConceptFig.png)
-2) Revised UI          ![SurveyWireframes](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20SurveyWireframeFig.png)
-3) Visual Design Comps ![VisualDesign](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20VisualDesignFig.png)
+1) Preliminary UI      [SurveyConcept](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20SurveyConceptFig.png)
+2) Revised UI          [SurveyWireframes](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20SurveyWireframeFig.png)
+3) Visual Design Comps [VisualDesign](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20VisualDesignFig.png)
 
 
