@@ -6,4 +6,4 @@ Insert url here
 750 words or less
 
 ## Approach Criteria Evidence
-![See Attachment E](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/tree/master/Attachment-E)
+[See Attachment E](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/tree/master/Attachment-E)
