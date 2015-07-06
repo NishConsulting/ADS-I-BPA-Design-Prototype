@@ -14,7 +14,7 @@ Following are the technologies used for the prototype along with their correspon
     http://sass-lang.com/documentation/file.MIT-LICENSE.html
 
 
-3.  jQuery 1.11.3
+3.  jQuery 1.7
 
     https://jquery.org/license/
 
