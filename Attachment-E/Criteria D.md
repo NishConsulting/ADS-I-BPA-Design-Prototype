@@ -9,7 +9,7 @@ Following are brief user personas and use cases for this prototype design exerci
 ### USER PERSONAS
 Two user personas were involved in this exercise:
 
-####1.  Consumer (between 40-90 years of age.)
+####1.  Consumer (between 55-90 years of age.)
 Stacy, an experienced school teacher who is 57 and lives with her husband of 25 years. She has 3 kids and 1 grandchild.
 Stacy has battled with arthritis, some migraines and sciatica.  She has taken various medications for these conditions for the past 10 years.
 
