@@ -17,7 +17,7 @@ Following are the questions we asked test participants during usability testing 
 ####Name:  Carol
 Demo:  Female, age 41, works at IBM
 
-![Usability Testing 1](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%237%20Carol%20Pic1.png)
+[Usability Testing 1](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/%237%20Carol%20Pic1.png)
 
 Feedback:
 - The woman in picture on the home page looks a little sickly
