@@ -15,7 +15,7 @@ Following are the questions we asked test participants during usability testing 
 ###RESPONSES
 
 ####Name:  Carol
-Demo:  Female, age 41, works at IBM
+Demo:  Female, age 55 - 60, works at IBM
 
 ![Usability Testing 1](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/%237%20Carol%20Pic1.png)
 
@@ -38,7 +38,7 @@ Feedback:
 - Page with results - Never make the consumer work too hard to correlate the visual with the remaining data.  Meaning, the donut graph has percentages and to the right are the correlating statements.  You should, 1, add the percentage to the statement, and 2, IN the donut graph, at least add to the percentages the label, so "45% Fatigue".
 
 ####Name:  Colleen
-Demo:  Female, age 45-50
+Demo:  Female, age 50 - 60
 
 ![Usability Testing 3](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/%237%20Colleen%20Pic3.png)
 
