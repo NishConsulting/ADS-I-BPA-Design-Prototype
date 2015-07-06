@@ -10,7 +10,7 @@ Following is a listing of modern front-end web technologies we used to build the
 
     - SASS Licensed under MIT: (http://sass-lang.com/documentation/file.MIT-LICENSE.html)
 
-3.  - jQuery 1.11.3: (https://jquery.org/license/)
+3.  jQuery 1.11.3: (https://jquery.org/license/)
     - Licensed under MIT: (https://tldrlegal.com/license/mit-license)
 
 4.  Bootstrap 3
