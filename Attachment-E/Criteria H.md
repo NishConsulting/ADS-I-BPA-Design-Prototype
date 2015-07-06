@@ -26,7 +26,10 @@ Team NISH employed an iterative approach in the design and development of our pr
 To further illustrate the iterative design process, the following files have also been provided in our GitHub repository:
 
 1) Preliminary UI      [SurveyConcept](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20SurveyConceptFig.png)
-2) Revised UI          [SurveyWireframes](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20SurveyWireframeFig.png)
+2) Revised UI          
+- ![SurveyWireframes 1](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Wireframes/Criteria_8_SurveyWireframes_Nish-1.jpg)
+- ![SurveyWireframes 2](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Wireframes/Criteria_8_SurveyWireframes_Nish-2.jpg)
+- ![SurveyWireframes 3](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Wireframes/Criteria_8_SurveyWireframes_Nish-3.jpg)
 3) Visual Design Comps [VisualDesign](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Pictures/%238%20VisualDesignFig.png)
 
 
