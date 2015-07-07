@@ -6,8 +6,8 @@ We provided a responsive design for our prototype, utilizing the Bootstrap 3 res
 
 ![iPhone 4S](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/Criteria_I_Resp_iPhone4S_Nish_2.PNG)
 
-!(https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/Criteria_I_Resp_iPhone4S_Nish_5.PNG)
+![iPhone 4S](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/Criteria_I_Resp_iPhone4S_Nish_5.PNG)
 
 ![iPhone 6](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/Criteria_I_Resp_iPhone6_Nish_3.PNG)
 
-!(https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/Criteria_I_Resp_iPhone6_Nish_6.PNG)
+![iPhone 6](https://github.com/NishConsulting/ADS-I-BPA-Design-Prototype/blob/master/Images/Criteria_I_Resp_iPhone6_Nish_6.PNG)
