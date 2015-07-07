@@ -1,0 +1,128 @@
+.confirmation-box{
+	padding:1.5em;
+	padding-bottom: 0px;
+
+
+	.email-print{
+		margin-bottom:20px;
+		margin-top: 20px;
+	}
+}
+
+
+.confirm-message{
+	text-align: center;
+
+
+	h4{
+		font-weight: bold;
+		font-size:1.2em;
+		padding-left:0px;
+	}
+
+	p{
+		padding-left:0px;
+	}
+}
+
+.confirm-image{
+	text-align: center;
+	
+	img{
+		width: 80%;
+	}
+}
+
+.email-input{
+	padding: 20px 20px;
+	width: 100%;
+	border-radius: 5px;
+	border:1px solid rgba($gray, .4);
+}
+
+.email-form{
+	position: relative;
+}
+
+.btn.action-btn{
+
+	background-color: $dark-blue;
+	border-radius: 50%;
+	padding: 0px;
+	margin: 0px;
+	width:50px;
+	height: 50px;
+	line-height: 50px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+
+
+	i.material-icons{
+		color: white;
+	}
+}
+
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+
+	.confirm-message{
+		text-align: center;
+	}
+
+	.confirm-image{
+		text-align: center;
+	}
+
+	.confirm-image{
+		text-align: center;
+		
+		img{
+			width: 30%;
+		}
+	}
+
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+
+	.confirmation-box{
+		padding:4em;
+		padding-bottom: 0px;
+	}
+
+
+	.confirm-message{
+		text-align: left;
+
+		h4{
+			margin-top: 20px;
+			padding-left:20px;
+		}
+
+		p{
+			padding-left:20px;
+		}
+	}
+
+	.confirm-image{
+	text-align: center;
+	
+	img{
+		width: auto;
+	}
+}
+
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+
+}

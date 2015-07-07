@@ -1,0 +1,15 @@
+@import "vars";
+@import "global";
+@import "header";
+@import "content";
+@import "footer";
+
+
+// Pages
+@import "screens/start";
+@import "screens/survey";
+@import "screens/q1";
+@import "screens/r1";
+@import "screens/q2";
+@import "screens/r2";
+@import "screens/confirmation";

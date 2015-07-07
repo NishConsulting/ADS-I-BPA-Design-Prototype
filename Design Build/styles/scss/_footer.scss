@@ -1,0 +1,38 @@
+/* Footer */
+
+footer{
+	text-align: center;
+	border-top:$border-size solid $light-gray;
+	padding-top:50px;
+	padding-bottom:50px;
+	margin-top:50px;
+}
+
+.footer-nav{
+
+
+
+}
+
+.copyright{
+	color: $gray;
+	font-size: .85em;
+}
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+
+}

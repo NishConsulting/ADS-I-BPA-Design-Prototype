@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Women's Health AE</title>
+	<meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link href="styles/main.css" rel="stylesheet">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script src="media/js/jquery.cookie.js"></script>
+	<script src="scripts/main.js"></script>
+
+
+	<script>
+
+
+		$(document).ready(function () {
+
+			$('.select-cards li a').click(onSelectCardClick);
+			$('.btn-question-1').click(onQuestion1Submit);
+
+			$('.card-label').on('mouseover', showPopover);
+			$('.card-label').on('mouseout', hidePopover);
+ 	
+    
+    	});
+		
+	</script>
+
+
+</head>
+<body class="survey">
+
+	<div class="container site-container">
+		
+		<header>
+			<div class="row">
+
+				<div class="col-md-6">
+					<div class="logo"><a href="index.html"><img src="images/survey-logo.png" alt="Women's Health AE"></a></div>
+				</div>
+
+				<div class="col-md-6">
+					<ol class="stepcrumbs list-inline">
+						<li class="active"><span>1</span></li>
+						<li><span>2</span></li>
+						<li><span>3</span></li>
+						<li><span>4</span></li>
+						<li><span>5</span></li>
+					</ol>
+				</div>
+
+			</div>
+			
+		</header>
+
+		<main>
+
+
+
+
+
+
+
+
+
+			<div class="step-description">
+				<h3>Start the Survey</h3>
+				<p>The brief survey on Adverse Events is made up of 5 simple questions and takes about a minute to complete.  &nbsp;An adverse event is any undesirable experience associated with using a drug.  &nbsp;This can include side effects, product use errors, product quality problems, and therapeutic failures. &nbsp;You may start the survey at any time.</p>
+			</div>
+
+
+			<section class="step-content step-question">
+
+				<span class="step-num">1.</span>
+				
+				<p class="question">What reaction(s) are you experiencing or have you experienced in the last 30 days to ANY medication? <span class="instructions">(you may select more than one reaction)</span></p>
+
+
+
+				<div class="answers">
+
+
+					<ol class="select-cards">
+						<li><a class="card" href="#" title="Diarrhoea"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Frequent, loose, watery stool">Diarrhoea</span></a></li>
+						<li><a href="#" title="Dizziness"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Dizziness, light headed">Dizziness</span></a></li>
+						<li><a href="#" title="Drug Ineffective"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Drug not working">Drug Ineffective</span></a></li>
+						<li><a href="#" title="Dyspnea"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Difficulty breathing">Dyspnea</span></a></li>
+						<li><a href="#" title="Fatigue"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Fatigue, extreme tiredness">Fatigue</span></a></li>
+						<li><a href="#" title="Headache"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Pain in the head">Headache</span></a></li>
+						<li><a href="#" title="Nausea"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Feeling sick with an inclination to vomit ">Nausea</span></a></li>
+						<li><a href="#" title="Off-Label Use"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Using drug in an unapproved way">Off-Label Use</span></a></li>
+						<li><a href="#" title="Pyrexia"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Raised body temperature; fever">Pyrexia</span></a></li>
+						<li><a href="#" title="Vomiting"><i class="material-icons">check_circle</i><span class="card-label" data-container="body" data-toggle="popover" data-placement="top" data-content="Throwing up">Vomiting</span></a></li>	
+					</ol>
+
+				</div>
+
+				<!-- Step Nav -->
+				<ul class="list-inline step-nav">
+
+					<li class="disabled"><a class="btn btn-primary btn-question-1" href="#" target="_self" title="Next" role="button">Next <i class="material-icons">arrow_forward</i></a></li>
+
+				</ul>
+
+			</section>
+
+
+
+
+
+
+
+		</main>
+
+		<footer>
+
+			<nav>
+				<ul class="footer-nav inline-links list-inline">
+					<li><a class="disableLink" href="#" target="_self" title="Link 1">Link 1</a></li>
+					<li><a class="disableLink" href="#" target="_self" title="Link 2">Link 2</a></li>
+					<li><a class="disableLink" href="#" target="_self" title="Link 3">Link 3</a></li>
+				</ul>
+			</nav>
+
+			<p class="copyright">&copy; 2015 FDA. All Rights Reserved.</p>
+
+		</footer>
+
+
+
+	</div>
+
+	<!-- Scripts -->
+	
+
+</body>
+</html>

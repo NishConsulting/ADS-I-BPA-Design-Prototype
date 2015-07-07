@@ -1,0 +1,53 @@
+/* Header */
+
+header{
+	text-align: center;
+}
+
+.tagline{
+	color:$gray;
+	font-style: italic;
+	font-weight: 400;
+	font-size: .85em;
+	width:75%;
+	margin: 0 auto;
+	margin-bottom: -10px;
+	padding-top:20px;
+}
+
+
+.start .logo img{
+	width:100%;
+}
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+	.start .logo img{
+		width:auto;
+	}
+
+	.tagline{
+		font-size: 	1em;
+		width:100%;
+		margin: 0 auto;
+		padding-top:20px;
+		margin-bottom: -20px;
+	}
+
+	.start header{
+		padding-top:25px;
+	}
+
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+
+}

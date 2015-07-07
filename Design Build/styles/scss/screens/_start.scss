@@ -1,0 +1,132 @@
+.start{
+
+
+
+}
+
+.start-container{
+	margin-top: 25px;
+	margin-bottom:25px;
+	overflow: visible;
+	position: relative;
+}
+
+.start-woman{
+	position: absolute;
+	bottom:0px;
+	left: -50px;
+	display: none;
+}
+
+.start-container .block{
+	padding: 2em;
+	border-radius: 2em;
+}
+
+.consumer{
+	background: $cream url(../images/start-consumer.gif) no-repeat top right;
+	min-height: 420px;
+
+
+	p{
+		margin:1.5em 0em;
+	}
+	
+}
+
+.physician{
+	background: $sky-blue url(../images/start-physician.gif) no-repeat top right;
+}
+
+
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: $screen-sm-min) {
+
+	.start .logo{
+		img{
+			width: auto;
+		}
+	}
+
+	.btn{
+		padding:10px 50px;
+
+	}
+
+	.start .btn-secondary{
+		padding: 10px 10px;
+		font-size: .9em;
+		width: 100%;
+	}
+
+	.start-container{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.start-woman{
+		display: block;
+	}
+
+
+	.about-logo{
+		padding-right:50px;
+
+		img{
+			width:auto;
+		}
+	}
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: $screen-md-min) {
+	.btn{
+		padding:10px 50px;
+
+	}
+
+	.start .btn-secondary{
+		padding: 10px 10px;
+		font-size: .9em;
+		width: 100%;
+	}
+
+	.start-container{
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.start-woman{
+		display: block;
+	}
+
+	.about-fda{
+		border-left:$border-size solid $light-gray;
+		padding-left: 50px;
+		padding-right: 100px;
+	}
+
+	.about-logo{
+		padding-right:50px;
+
+		img{
+			width:100%;
+		}
+	}
+
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: $screen-lg-min) {
+	.start-container .block{
+		padding: 4em;
+	}
+
+}
+
+	

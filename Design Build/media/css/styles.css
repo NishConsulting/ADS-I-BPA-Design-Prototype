@@ -1,0 +1,171 @@
+﻿
+ #dashboard .panel-body{
+     height:400px;
+ }
+
+ #dashboard{
+     background-color: #777;
+     height: 100%;
+ }
+
+td.red{
+    background-color: #FFA07A;
+    text-align: center;
+}
+td.green{
+    background-color: #F0FFFF;
+    text-align: center;
+}
+td.yellow{
+    background-color: #FFFFE0;
+    text-align: center;
+}
+td.orange{
+    background-color: #FFDEAD;
+    text-align: center;
+}
+td.gray{
+    background-color: #D3D3D3;
+    text-align: center;
+}
+
+
+
+.panel h1 {
+    font-size: 10pt;
+}
+.panel-heading{
+    background-color: #5B5B6F;
+}
+
+#questionbody a {
+    color: #5B5B6F;
+}
+
+#modernbody a {
+    color: #5B5B6F;
+}
+#modernbody a:hover, a:active {
+    /*color: #558ED5;*/
+}
+#modernbody h2 {
+    font-size: 12pt;
+    margin-top: 0.5em;
+    color: #953735;
+    padding-left: 10px;
+}
+
+#maintables {
+  /*  height: auto;
+    width: auto;*/
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow-y: auto;
+    background: #FFFFFF;
+    border-left: 1px solid #e7e7e7;
+}
+#maintables td {
+    font-size: 8pt;
+}
+#hierarchy {
+    height: 100%;
+    width: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    background: #FFFFFF;
+    border-left: 1px solid #e7e7e7;
+}
+#orgchart{
+    margin-bottom:50px;
+}
+#appdescription {
+    height: auto;
+    width: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    background: #FFFFFF;
+    border-left: 1px solid #e7e7e7;
+}
+#blankcanvas {
+    height: auto;
+    width: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
+    background: #FFFFFF;
+    border-left: 1px solid #e7e7e7;
+}
+#hierarchy table {
+    border-collapse: initial;
+}
+
+.nomargin {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+:focus, :active {
+	outline: 0;
+}
+ul.contentbodylist {
+    list-style-type: none;
+    margin-right: 1em;
+    margin-top: -0.5em;
+}
+a.hover { 
+    cursor: pointer; 
+    cursor: hand; 
+}
+.main {
+  padding: 20px;
+}
+@media (min-width: 768px) {
+  .main {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+}
+.main .page-header {
+  margin-top: 0;
+}
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+
+/*
+ * Global add-ons
+ */
+
+.sub-header {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+.navbar-fixed-top {
+  border: 0;
+}
+
+
